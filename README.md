@@ -3,6 +3,12 @@ S01E04
 
 Slides et code du meetup S01E04
 
+Pourquoi choisir Backbone en 2015 ?
+-----------------------------------
+[Florent DUVEAU](https://twitter.com/florentduveau)
+
+Petit tour sur l'état actuel de la "guerre" des frameworks front, les révolutions annoncées et la place de Backbone
+dans tout ça : [Présentation](http://slides.com/florentduveau/backbone2015/)
 
 Mashup
 ------
